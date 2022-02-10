@@ -1,20 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "B&B",
+  "name": "Books & Books Challenge",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://pbs.twimg.com/profile_images/3530877009/1436039fbc693ae134cb094b81edb102_400x400.jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "https://pbs.twimg.com/profile_images/3530877009/1436039fbc693ae134cb094b81edb102_400x400.jpeg",
+      "type": "image/jpeg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "https://pbs.twimg.com/profile_images/3530877009/1436039fbc693ae134cb094b81edb102_400x400.jpeg",
+      "type": "image/jpeg",
       "sizes": "512x512"
     }
   ],
