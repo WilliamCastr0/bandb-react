@@ -14,7 +14,7 @@ function Home() {
                     </div>
                     <div className="card-body-home">
                         <div className="card-title">
-                            <h1>Our mission</h1>
+                            <h1><span>Our mission</span></h1>
                             <h2>Science, innovation and teamwork!</h2>
                         </div>
                         <div className="card-text">
@@ -39,7 +39,7 @@ function Home() {
                     </div>
                     <div className="card-body-home">
                         <div className="card-title">
-                            <h1>Our culture</h1>
+                            <h1><span>Our culture</span></h1>
                             <h2>Learn more about our culture!</h2>
                         </div>
                         <div className="card-text">
