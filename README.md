@@ -8,7 +8,7 @@ Este proyecto fue realizado con [Create React App](https://github.com/facebook/c
 
 ## Servidor de desarrollo
 
-Para iniciar el proyecto ejecuta el comando `ng serve` desde la raíz de la carpeta. Una vez compilado, puedes ejecutar el layout en `http://localhost:4200/`.
+Para iniciar el proyecto ejecuta el comando `npm start` desde la raíz de la carpeta. Una vez compilado, puedes ejecutar el layout en `http://localhost:3000/`.
 
 ## Usos externos
 
