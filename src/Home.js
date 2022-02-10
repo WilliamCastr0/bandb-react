@@ -1,10 +1,10 @@
 import React from 'react';
-import './Home.css';
+import './Home.scss';
 
 function Home() {
     return (
         <div className='Home'>
-            <main>
+            <main className='main-home'>
                 <div className="card_alt">
                     <div className="meta">
                         <div className="photo"></div>
@@ -27,7 +27,9 @@ function Home() {
                         </div>    
                     </div>
                 </div>
+
                 
+
                 <div className="card_alt">
                     <div className="meta">
                         <div className="photo_alt"></div>
